@@ -1,5 +1,4 @@
 from django.db import models
-# Cambia esto en tu archivo de modelos de tarjetas
 from django.contrib.auth.models import User
 
 # Create your models here.
